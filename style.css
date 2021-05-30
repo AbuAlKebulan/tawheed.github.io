@@ -1,0 +1,30 @@
+/* * {margin: 0; padding: 0; box-sizing: border-box;} */
+
+body {
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+em {
+    font-weight: bold;
+}
+
+ul li {
+    margin-bottom: 13px;
+}
+
+ol li {
+    margin-bottom: 13px;
+    font-weight: bold;
+}
+
+footer p {
+    text-transform: capitalize;
+    margin-top: 25px;
+    text-align: center;
+    font-weight: bold;
+}
